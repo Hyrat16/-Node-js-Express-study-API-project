@@ -204,8 +204,8 @@ _The port may vary if the `PORT` environment variable is set._
 ## 📦 Instalação
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repo.git
-cd seu-repo
+git clone https://github.com/Hyrat16/-Node-js-Express-study-API-project.git
+cd -Node-js-Express-study-API-project
 npm install
 cp .env.example .env
 npm run dev
